@@ -12,5 +12,7 @@ public class Main {
 				main.setVisible(true);
 			}
 		});
+		
+		
 	}
 }
